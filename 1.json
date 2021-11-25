@@ -1,0 +1,13 @@
+{
+  "name":"Mouse",
+  "description":"Con chuot",
+  "image_url":"",
+  "attributes":[
+  {
+    "trait_type":"Power",
+    "value":1
+  }
+  ],
+  "tokenId":1,
+  "__v":0
+}
