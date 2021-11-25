@@ -1,7 +1,7 @@
 {
   "name":"Mouse",
   "description":"Con chuot",
-  "image_url":"",
+  "image_url":"https://raw.githubusercontent.com/remitayes/nft/main/1.png",
   "attributes":[
   {
     "trait_type":"Power",
